@@ -18,12 +18,16 @@ No back, foco em soluções robustas e escaláveis, usando linguagens versáteis
 - **Java**
 - **Python**
 
-## 🚧 Projetinhos em andamento:
-Estou sempre desenvolvendo algo novo para testar técnicas, ferramentas e **ficar por dentro do que o mercado pede**! Não deixe de conferir meus projetos.  
-Você vai encontrar APIs, automações e, claro, muito código organizado. 😉
+## 🚧 Projetos e Aprendizados Recentes:
+Atualmente, estou focado em um projeto super interessante envolvendo **clusters de containers na AWS**. Estou usando **Docker Stacks** para subir instâncias EC2 na AWS e gerenciar containers de aplicações.  
+Esse projeto inclui:
+- Uma **API em Node.js** que roda numa instância EC2 e permite a criação e gerenciamento de containers.
+- Edição automática de arquivos de configuração como **Nginx** e **Docker Compose** diretamente via API.
+- Um front-end **Vue.js** para interação simples e intuitiva, onde o usuário pode fornecer a imagem Docker, porta e subdomínio para subir novas instâncias rapidamente.
+- Integração com **GitHub Actions** para automação e documentação completa no **Postman**.
 
-## 🌱 O que estou aprendendo agora?
-Sempre buscando aprender o que há de mais moderno, agora estou explorando [tecnologia nova que você está aprendendo] e aprimorando minhas skills em [tecnologia que você já domina]. 
+Esse hub centraliza o gerenciamento de containers e facilita a criação de novas instâncias em poucos passos! 🌐🚀
+
 
 ## 🤝 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/abel-cabral)
