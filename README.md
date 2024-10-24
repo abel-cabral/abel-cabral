@@ -27,8 +27,3 @@ Esse projeto inclui:
 - Integração com **GitHub Actions** para automação e documentação completa no **Postman**.
 
 Esse hub centraliza o gerenciamento de containers e facilita a criação de novas instâncias em poucos passos! 🌐🚀
-
-
-## 🤝 Vamos nos conectar?
-- [LinkedIn](https://www.linkedin.com/in/abel-cabral)
-- [E-mail](mailto:abel-cabral@outlook.com)
